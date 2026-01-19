@@ -1,0 +1,7 @@
+{
+  "size": "Size",
+  "open_stretch_settings": "Open stretch settings",
+  "title": "Stretch aspect ratio",
+  "reset": "Reset to window ratio",
+  "slider": "Aspect ratio: %s (%dx%d)"
+}
